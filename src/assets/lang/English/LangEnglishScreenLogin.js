@@ -1,0 +1,16 @@
+export default {
+  VER_LOGIN: 'Please login to',
+  VER_LOGIN_CONTINUE: 'continue',
+  VER_MOBILE_FIELD: 'Mobile',
+  VER_MOBILE_PLACEHOLDER: 'Enter Your Mobile Number',
+  VER_CONTINUE: 'Continue',
+  PROMOTIONAL_POLICY: 'I Agree to',
+  SIGNUP_POLICY_TEXT: 'By using Veranda RACE, you agree to our',
+  SIGNUP_TERM: 'Terms',
+  SIGNUP_PRIVACY: 'Privacy Policy',
+  VER_AND: '&',
+  Invalid_Mobile: 'Please enter a valid mobile number',
+  Mobile_no_empty_error: 'Mobile cannot be empty',
+  BLANK_SPACE: ' ',
+  WELCOME: 'Welcome !',
+};

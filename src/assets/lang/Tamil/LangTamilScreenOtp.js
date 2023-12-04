@@ -1,0 +1,15 @@
+export default {
+  VER_ENTER_OTP: 'உங்கள் நெம்புர் உறுதிப்படுத்தவும்',
+  VER_ENTER_OTP_TEXT: 'அனுப்பப்பட்ட OTP ஐ உள்ளிடவும்',
+  OTP_PlaceholderDigits: 'நான்கு இலக்க OTP-ஐ உள்ளிடவும்',
+  OTP_Text: 'otp',
+  OPT_Empty_Error_msg: 'OTP காலியாக இருக்க முடியாது',
+  INVALID_OTP_Error_msg: 'தவறான OTP',
+  VER_OTP_Text: 'OTP',
+  VER_DID_NOT_TEXT: 'OTP இன்னும் வரவில்லையா??',
+  VER_RESENT: 'OTP ஐ மீண்டும் அனுப்பவும்',
+  SignUp_continue: 'தொடரவும்',
+  OTP_EDIT: 'மாற்ற',
+  OTP_AGREE: 'By using Veranda RACE, you agree to our ',
+  OTP_POLICY: 'விதிமுறைகள் & தனியுரிமைக் கொள்கை',
+};

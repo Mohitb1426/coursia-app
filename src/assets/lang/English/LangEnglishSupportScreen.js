@@ -1,0 +1,15 @@
+export default {
+  SUPPORT_SCREEN: 'Support',
+  SUPPORT_FIRST: 'support@verandarace.com',
+  SUPPORT_SECOND: 'akash.gaurav@verandalearning.com',
+  CALL_US: 'Call us at',
+  TAMIL: 'Tamil',
+  TAMIL_NO: '7550003885',
+  MALAYALAM: 'Malayalam',
+  MALAYALAM_NO: '9384844483',
+  KANNADA: 'Kannada',
+  KANNADA_NO: '7550003885',
+  TELUGU: 'Telugu',
+  TELUGU_NO: '7550003885',
+  Email_At: 'Email at',
+};

@@ -1,0 +1,5 @@
+export const QUIZ_RESULT_CONSTANT = {
+  SECTION_TIME: 0,
+  QUESTION_TIME: 1,
+  QUIZ_TIME: 2,
+};

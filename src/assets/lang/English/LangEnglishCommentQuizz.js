@@ -1,0 +1,15 @@
+export default {
+  TYPE_YOUR_DOUBT: 'Type your doubt here ',
+  SUBMIT: 'Submit',
+  HEY: 'Hey ',
+  YOUR_DOUBT_IS_POSTED: 'Your doubt is posted!',
+  WE_WILL_SEND_NOTIFICATION: 'We’ll send you a notification as soon as our faculty reply.',
+  QUIZ_SUBJECT: 'Subject',
+  MENTOR_ANSWER: 'Mentor Answer',
+  GIVE_FEEDBACK: 'Give Feedback',
+  QUIZ_RESOLVED: 'Resolved',
+  QUIZ_UNRESOLVED: 'Unresolved',
+  VIEW_MORE: 'View More',
+  VIEW_LESS: 'View Less',
+  COMMENT_DELETED: 'Deleted',
+};

@@ -1,0 +1,15 @@
+export default {
+  TYPE_YOUR_DOUBT: 'உங்கள் சந்தேகம்',
+  SUBMIT: 'அனுப்புக',
+  HEY: 'வணக்கம் ',
+  YOUR_DOUBT_IS_POSTED: 'உங்கள் சந்தேகம் பதிவிடப்பட்டது!',
+  WE_WILL_SEND_NOTIFICATION: 'எங்கள் ஆசிரியர் பதிலளித்தவுடன் உங்களுக்கு அறிவிப்பை அனுப்புவோம்.',
+  QUIZ_SUBJECT: 'பொருள்',
+  MENTOR_ANSWER: 'மெண்டோர் பதில்',
+  GIVE_FEEDBACK: 'உங்கள் கருத்து என்ன',
+  QUIZ_RESOLVED: 'தீர்க்கப்பட்டது',
+  QUIZ_UNRESOLVED: 'தீர்க்கப்படாத',
+  VIEW_MORE: 'மேலும் பார்க்க',
+  VIEW_LESS: 'சிறியது அக்கு',
+  COMMENT_DELETED: 'Deleted',
+};

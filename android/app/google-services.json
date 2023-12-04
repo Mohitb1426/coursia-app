@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1029637815761",
+    "project_id": "yukthi-tnpsc",
+    "storage_bucket": "yukthi-tnpsc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029637815761:android:58a5f513696318a15f34f0",
+        "android_client_info": {
+          "package_name": "com.yukthi.tnpsc.race"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029637815761-q16fcb5ehgfolrklhqoi7ppftqotsr37.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yukthi.tnpsc.race",
+            "certificate_hash": "945f21f49538f9b14180c2c849080157a6ed7f4d"
+          }
+        },
+        {
+          "client_id": "1029637815761-sigbck2c6mm1196qoj5ej548hf09f88v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yukthi.tnpsc.race",
+            "certificate_hash": "5b67e107aaa530d24246ccc14f811fe18615ea55"
+          }
+        },
+        {
+          "client_id": "1029637815761-lj0rmi1vqt8ejl6ua40bkcuh66orhhh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSq3VldDk0rH8UGi3i86x-msfulTEnnPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029637815761-lj0rmi1vqt8ejl6ua40bkcuh66orhhh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

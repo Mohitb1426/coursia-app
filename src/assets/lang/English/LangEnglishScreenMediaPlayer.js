@@ -1,0 +1,16 @@
+export default {
+  DOWNLOAD: 'Download',
+  DND: 'DND',
+  ADD_BOOKMARK: 'Add Bookmark',
+  BOOKMARK: 'Bookmarks',
+  NOTES: 'Notes',
+  TAKE_NOTES: 'Take Notes',
+  MODAL_NOTES: 'Note added',
+  MODAL_NOTES_UPDATED: 'Note updated',
+  MODAL_BOOKMARK: 'Bookmark added',
+  DOWNLOADED: 'Downloaded',
+  DOWNLOADING: 'Downloading',
+  MEDIA_SUBMIT: 'SUBMIT',
+  CAPITAL_NEXT: 'Next',
+  CANCEL: 'CANCEL',
+};

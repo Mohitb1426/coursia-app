@@ -1,0 +1,5 @@
+node_modules
+build
+src/screens/QuizQuestionScreen/index.js
+src/screens/Home/components/StoryComponent/Components/components/*.js
+src/screens/Camera

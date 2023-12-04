@@ -1,0 +1,16 @@
+export default {
+  DOWNLOAD: 'பதிவிறக்கு',
+  DND: 'தொந்தரவு செய்யாதே',
+  ADD_BOOKMARK: 'புக்மார்க்கில் சேர்',
+  BOOKMARK: 'புக்மார்க்',
+  NOTES: 'பாடக்குறிப்புகள்',
+  TAKE_NOTES: 'பாடக்குறிப்பு எடு',
+  MODAL_NOTES: 'பாடக்குறிப்பில் சேர்க்கப்பட்டது',
+  MODAL_NOTES_UPDATED: 'Note updated',
+  MODAL_BOOKMARK: 'புக்மார்க்கில் சேர்க்கப்பட்டது',
+  DOWNLOADED: 'பதிவிறக்கப்பட்டது',
+  DOWNLOADING: 'பதிவிறக்கப்படுகிறது',
+  MEDIA_SUBMIT: 'சமர்ப்பிக்கவும்',
+  CAPITAL_NEXT: 'அடுத்து',
+  CANCEL: 'ரத்து செய்',
+};

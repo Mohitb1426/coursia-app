@@ -1,0 +1,16 @@
+export default {
+  VER_LOGIN: 'மேலும் தொடர தயவுசெய்துஉள்நுழைக ',
+  VER_LOGIN_CONTINUE: 'தொடரவும்',
+  VER_MOBILE_FIELD: 'கைபேசி',
+  VER_MOBILE_PLACEHOLDER: 'உங்களுடைய கைபேசி எண்ணை உள்ளிடவும்',
+  VER_CONTINUE: 'தொடரவும்',
+  PROMOTIONAL_POLICY: 'நான் ஒப்புக்கொள்கிறேன்',
+  SIGNUP_POLICY_TEXT: 'பயன்படுத்தி Veranda Race, நீங்கள் எங்களுடையதை ஒப்புக்கொள்கிறீர்கள்',
+  SIGNUP_TERM: 'விதிமுறைகள்',
+  SIGNUP_PRIVACY: 'தனியுரிமைக் கொள்கை',
+  VER_AND: 'மற்றும்',
+  Invalid_Mobile: 'சரியான மொபைல் எண்ணை உள்ளிடவும்',
+  Mobile_no_empty_error: 'மொபைல் எண் உள்ளிடாமல் இருக்கக்கூடாது',
+  BLANK_SPACE: ' ',
+  WELCOME: 'வணக்கம் !',
+};

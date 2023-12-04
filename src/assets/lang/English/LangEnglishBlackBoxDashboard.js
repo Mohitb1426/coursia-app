@@ -1,0 +1,17 @@
+export default {
+  B_B_DASHBOARD_SCREEN_NAME: 'Analysis',
+  B_B_HEADING_1: 'Blackbox Summary',
+  B_B_HEADING_2: 'Blackbox Analysis',
+  B_B_CARD_1: 'Total Ques.',
+  B_B_CARD_2: 'Correct Ques.',
+  B_B_CARD_3: 'Unattempted Ques.',
+  B_B_CARD_4: 'Incorrect Ques',
+  B_B_TOTAL: 'Total',
+  B_B_CORRECT: 'Correct',
+  B_B_INCORRECT: 'Incorrect',
+  B_B_UNATTEMPTED: 'Unattempted',
+  B_B_EMPTY_DATA: 'As you take subject wise tests, the analyses will show up here',
+  B_B_LOCK_HEADING: 'Unlock With Pass Now',
+  B_B_LOCK_DETAIL: 'Get detailed analysis of mistakes made in questions and identify the precise topics you need to focus upon',
+  B_B_LOCK_BUTTON: 'Unlock Screen',
+};
